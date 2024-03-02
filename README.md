@@ -1,15 +1,15 @@
 # Paste-Bin
 ```
-https://github.com/microsoft/TypeScript
+https://github.com/microsoft/TypeScript/fork
 ```
 ```
- https://github.com/microsoft/vscode
+ https://github.com/microsoft/vscode/fork
 ```
 ```
 https://github.com/microsoft/vscode-extension-samples/fork
 ```
 ```
-https://github.com/vernesong/OpenClash
+https://github.com/vernesong/OpenClash/fork
 ```
 ```
 https://github.com/deaaprizal/cuyanimelist/fork
@@ -21,5 +21,5 @@ https://github.com/deaaprizal/forum/fork
 https://github.com/microsoft/TypeScript
 ```
 ```
-https://github.com/facebook/react
+https://github.com/facebook/react/fork
 ```
