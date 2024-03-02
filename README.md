@@ -18,8 +18,8 @@ https://github.com/deaaprizal/cuyanimelist/fork
 https://github.com/deaaprizal/forum/fork
 ```
 ```
-test
+https://github.com/microsoft/TypeScript
 ```
 ```
-test
+https://github.com/facebook/react
 ```
