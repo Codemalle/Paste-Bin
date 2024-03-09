@@ -18,7 +18,7 @@ https://github.com/deaaprizal/cuyanimelist/fork
 https://github.com/deaaprizal/forum/fork
 ```
 ```
-https://github.com/microsoft/TypeScript
+https://github.com/InstaPy/InstaPy/fork
 ```
 ```
 https://github.com/facebook/react/fork
